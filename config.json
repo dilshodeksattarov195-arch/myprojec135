@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchpetch",
+        "uuid": 776115,
+        "checksum": "s78zri"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
